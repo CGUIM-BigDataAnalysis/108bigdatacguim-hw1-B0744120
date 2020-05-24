@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590327385859.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FE891598",
+    "lastKnownWriteTime" : 2311792746584,
+    "last_content_update" : 1590327385859,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3AEE4AE6",
+        "caption" : "salary107",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=salary107&cache_key=3AEE4AE6",
+        "displayedObservations" : 140,
+        "environment" : "",
+        "expression" : "salary107",
+        "object" : "salary107",
+        "preview" : 0,
+        "totalObservations" : 140,
+        "variables" : 14
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

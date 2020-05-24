@@ -1,0 +1,5 @@
+"0","#依照差異大小由大到小排序
+salary107<-salary107[order(salary107$`大學-女/男`,decreasing = F),]
+"
+"2","錯誤: 在反引號內部不支援 \uxxxx 序列 (第 1 列)
+"
